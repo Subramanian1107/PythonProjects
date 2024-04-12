@@ -1,6 +1,6 @@
 import random
 
-with open("wordList.txt", 'r') as f:
+with open("Hangman/wordList.txt", 'r') as f:
     words = f.readlines()
 
 word = random.choice(words)[:-1]
@@ -27,6 +27,6 @@ while not done:
             done = False
 
 if done == True:
-    print("Well done! You found the word")
+    print(f"Well done! You found the word. The word is indeed '{word}' ")
 else:
-    print(f"Game Over! The word was {word}. Try again")
+    print(f"Game Over! The word was '{word}'. Try again")
