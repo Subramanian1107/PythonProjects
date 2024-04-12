@@ -1,0 +1,150 @@
+Algorithm
+Binary
+Cache
+Debugging
+Encryption
+Function
+Graph
+HTML
+Interface
+JavaScript
+Kernel
+Loop
+Machine Learning
+Networking
+Operating System
+Protocol
+Queue
+Recursion
+Syntax
+Unicode
+Variable
+Web Development
+XML
+YAML
+Zip
+Artificial Intelligence
+Cloud Computing
+Database
+Exception Handling
+Firewall
+Hashing
+Kernel
+Linked List
+Machine Code
+Object-Oriented Programming
+Pointer
+Query
+Regular Expression
+Stack
+Virtual Machine
+Wireless Networking
+API 
+Binary Search Tree
+Concurrency
+Data Structure
+Event-driven Programming
+Firmware
+Inheritance
+Microcontroller
+Node.js
+Polymorphism
+Routing
+Tokenization
+Unit Testing
+Vector
+Web Server
+Abstraction
+Polymorphism
+Kernel
+CUDA
+OpenCL
+Thread Block
+Grid
+Shared Memory
+Global Memory
+Texture Memory
+Thread Synchronization
+Atomics
+Device Memory
+GPU Profiling
+Streams
+Threads
+Thrust
+Artificial Neural Network
+Backpropagation
+Batch Normalization
+Convolutional Neural Network
+Data Augmentation
+Dropout
+Feedforward Neural Network
+Gradient Descent
+Hyperparameter
+Loss Function
+Recurrent Neural Network
+Regularization
+Supervised Learning
+Unsupervised Learning
+Activation Function
+Autoencoder
+Batch Size
+Deep Learning
+Ensemble Learning
+Feature Engineering
+Generative Adversarial Network
+K-means Clustering
+Logistic Regression
+Neural Network Architecture
+Overfitting
+Pre-trained Model
+Softmax
+Transfer Learning
+Caching
+Distributed System
+Fault Tolerance
+Horizontal Scaling
+Load Balancing
+Service-Oriented Architecture (SOA)
+Scalability
+Session Management
+Statelessness
+System Architecture
+Throughput
+Vertical Scaling
+Latency
+Message Queue
+Compiler
+Computer Vision
+Concurrency
+Cryptography
+CSS
+Docker
+Git
+IPv4
+Python
+SIMD
+Thread Divergence
+Decision Tree
+Random Forest
+AdaBoost
+Quantum Computing
+Regular languages
+Fuzzy Logic 
+Regression
+WebSocket
+Wifi
+Ethernet
+DevOps
+Version Control
+Trie
+Parallel Algorithms
+Optimization
+Approximation
+Finite State Machine
+Router
+Encoder
+Decoder
+RSA
+Pattern Recognition
+File 
+VPN
